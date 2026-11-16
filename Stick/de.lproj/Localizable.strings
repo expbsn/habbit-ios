@@ -1,0 +1,843 @@
+/*
+  Localizable.strings (German)
+  Stick/Habbit
+*/
+
+// MARK: - Onboarding: Welcome Page
+
+"welcome_title" = "Willkommen";
+"welcome_subtitle" = "Deine Habbits warten drauf ernst genommen zu werden.";
+"welcome_feature_1" = "Kleine Schritte für große Veränderungen";
+"welcome_feature_2" = "Alle Erfolge an einem Ort";
+"welcome_feature_3" = "Erreiche deine Ziele Tag für Tag";
+
+// MARK: - Onboarding: Question 1 - Statement
+
+"question1_title" = "Welche Aussage trifft am meisten auf dich zu?";
+"question1_subtitle" = "Sei ehrlich zu dir selbst — das hilft uns, dich besser zu verstehen.";
+"question1_option1" = "Ich habe keine klaren Ziele";
+"question1_option2" = "Ich neige zum Aufschieben";
+"question1_option3" = "Ich fühle mich oft gestresst";
+"question1_option4" = "Ich fühle mich schnell überfordert";
+"question1_option5" = "Ich kann meine Pläne nicht einhalten";
+"question1_option6" = "Ich komm nicht mit Deadlines klar";
+
+// MARK: - Onboarding: Question 2 - Procrastination
+
+"question2_title" = "Stört dich Prokrastination?";
+"question2_subtitle" = "Das kennen wir alle.";
+"question2_option1" = "Ja, es hält mich wirklich zurück";
+"question2_option2" = "Manchmal, aber ich komme damit klar";
+"question2_option3" = "Ich bin gut im Anfangen";
+
+// MARK: - Onboarding: Question 3 - Goal Meaning
+
+"question3_title" = "Was bedeutet es für dich, ein Ziel zu setzen?";
+"question3_subtitle" = "Es gibt hier keine falsche Antwort.";
+"question3_option1" = "Es wäre cool, eins zu haben";
+"question3_option2" = "Ich handle sofort";
+"question3_option3" = "Warte auf den richtigen Zeitpunkt";
+
+// MARK: - Onboarding: Question 4 - Holding Back
+
+"question4_title" = "Was hält dich davon ab, deine Ziele zu erreichen?";
+"question4_subtitle" = "Das zu verstehen ist der erste Schritt zur Überwindung.";
+"question4_option1" = "Angst vor dem Scheitern";
+"question4_option2" = "Ich verpasse ständig meine Pläne";
+"question4_option3" = "Ich muss mich besser vorbereiten";
+"question4_option4" = "Ich stecke in meiner Komfortzone fest";
+
+// MARK: - Onboarding: Question 5 - Why Habits
+
+"question5_title" = "Warum möchtest du Habits aufbauen?";
+"question5_subtitle" = "Was treibt dich an, etwas zu verändern?";
+"question5_option1" = "Um meine Ziele zu erreichen";
+"question5_option2" = "Um meinen Tag besser zu strukturieren";
+"question5_option3" = "Um aus meiner Komfortzone auszubrechen";
+"question5_option4" = "Um eine bessere Version von mir zu werden";
+
+// MARK: - Onboarding: Good Job Page
+
+"goodjob_title" = "Gut gemacht";
+"goodjob_subtitle" = "So weit zu kommen ist ein toller Start.\nBleib jetzt dran, um Ergebnisse zu sehen!";
+
+// MARK: - Onboarding: Notifications Page
+
+"notifications_title" = "Bleib am Ball";
+"notifications_subtitle" = "Wir senden dir sanfte Erinnerungen, damit du bei deinen Habits dranbleibst.";
+"notifications_smart_reminders_hint" = "Smarte Erinnerungen können dich tagsüber an unvollständige Habits und Ziele erinnern — du kannst sie jederzeit in den Einstellungen aktivieren und anpassen.";
+"notifications_enable" = "Erinner mich";
+"notifications_later" = "Vielleicht später";
+"notifications_success" = "Alles bereit!";
+"notifications_settings_hint" = "Du kannst dies später in den Einstellungen aktivieren";
+
+// MARK: - Onboarding: Paywall
+
+"paywall_title" = "Habbit Pro freischalten";
+"paywall_subtitle" = "Voller Zugriff auf alle Pro-Funktionen. Jederzeit kündbar.";
+"paywall_trial_note" = "Automatisch verlängerndes Abo. Jederzeit kündbar.";
+"paywall_offerings_error" = "Die Abo-Optionen konnten nicht geladen werden. Bitte prüfe deine Verbindung und versuche es erneut.";
+"paywall_error_title" = "Etwas ist schiefgelaufen";
+"paywall_ok" = "OK";
+"paywall_timeline1_title" = "Unbegrenzte Habits";
+"paywall_timeline1_subtitle" = "Verfolge so viele Habits, wie du möchtest — ohne Limit";
+"paywall_timeline2_title" = "Tiefere Einblicke";
+"paywall_timeline2_subtitle" = "Detaillierte Analysen und dein persönlicher Wochenrückblick";
+"paywall_timeline3_title" = "Alles freigeschaltet";
+"paywall_timeline3_subtitle" = "Home-Screen-Widgets, Health-Sync, Challenges und mehr";
+"paywall_badge_save" = "SPARE 58%";
+"paywall_start_trial" = "Abonnieren";
+"paywall_terms" = "AGB";
+"paywall_privacy" = "Datenschutz";
+"paywall_restore" = "Wiederherstellen";
+"paywall_billed_annually" = "Jährlich abgerechnet";
+"paywall_billed_monthly" = "Monatlich abgerechnet";
+"paywall_per_year" = "pro Jahr";
+"paywall_per_month" = "pro Monat";
+"paywall_auto_renew_disclosure" = "%1$@ %2$@. Das Abo verlängert sich automatisch, wenn es nicht mindestens 24 Stunden vor Ablauf gekündigt wird. Verwalte es in deinen Apple-ID-Einstellungen.";
+"paywall_plan_monthly" = "Monatlich";
+"paywall_plan_yearly" = "Jährlich";
+
+// MARK: - Onboarding: Navigation
+
+"nav_lets_go" = "Los geht's";
+"nav_lets_do_it" = "Auf geht's";
+"nav_almost_there" = "Fast geschafft";
+"nav_continue" = "Weiter";
+
+// MARK: - Tab Bar
+
+"tab_habits" = "Habits";
+"tab_explore" = "Entdecken";
+"tab_analytics" = "Statistiken";
+"tab_settings" = "Einstellungen";
+
+// MARK: - Settings
+
+"settings_title" = "Einstellungen";
+"settings_profile" = "Profil";
+"settings_your_name" = "Dein Name";
+"settings_user" = "Habbit Nutzer";
+"settings_motivation_quote" = "Motivationsspruch";
+"settings_motivation_placeholder" = "Was treibt dich an?";
+
+"settings_subscription" = "Abonnement";
+"settings_pro_active" = "Habbit Pro";
+"settings_pro_thanks" = "Danke für deine Unterstützung!";
+"settings_manage_subscription" = "Abo verwalten";
+"settings_upgrade_pro" = "Auf Pro upgraden";
+"settings_upgrade_subtitle" = "Unbegrenzte Habits, Analysen & mehr";
+"settings_restore_purchases" = "Käufe wiederherstellen";
+
+"settings_appearance" = "Erscheinungsbild";
+"settings_theme" = "Design";
+"settings_theme_system" = "System";
+"settings_theme_light" = "Hell";
+"settings_theme_dark" = "Dunkel";
+"settings_theme_dim" = "Gedimmt";
+"settings_accent_color" = "Akzentfarbe";
+"settings_week_starts" = "Woche beginnt am";
+"settings_sunday" = "Sonntag";
+"settings_monday" = "Montag";
+
+"settings_goals" = "Ziele";
+"settings_no_goals" = "Noch keine Ziele erstellt";
+"settings_habit_count" = "%d Habit";
+"settings_habits_count" = "%d Habits";
+"settings_goals_footer" = "Tippen zum Bearbeiten, nach links wischen zum Löschen";
+"settings_delete_goal" = "Ziel löschen?";
+"settings_delete" = "Löschen";
+"settings_cancel" = "Abbrechen";
+"settings_delete_goal_message" = "Möchtest du \"%@\" wirklich löschen? Habits, die diesem Ziel zugeordnet sind, werden nicht mehr zugeordnet.";
+
+"settings_notifications" = "Benachrichtigungen";
+"settings_enable_notifications" = "Benachrichtigungen aktivieren";
+"settings_permission_status" = "Berechtigung";
+"settings_default_reminder" = "Standard-Erinnerungszeit";
+"settings_notifications_denied" = "Benachrichtigungen sind deaktiviert. Aktiviere sie unter Einstellungen > Habbit > Benachrichtigungen.";
+"settings_notifications_footer" = "Lege eine Standardzeit für Erinnerungen fest. Du kannst Zeiten für einzelne Habits anpassen.";
+"settings_status_allowed" = "Erlaubt";
+"settings_status_denied" = "Abgelehnt";
+"settings_status_provisional" = "Vorläufig";
+"settings_status_ephemeral" = "Temporär";
+"settings_status_not_set" = "Nicht festgelegt";
+"settings_status_unknown" = "Unbekannt";
+
+"settings_feedback" = "Feedback";
+"settings_haptic_feedback" = "Haptisches Feedback";
+"settings_haptic_footer" = "Spüre eine sanfte Vibration beim Abschließen von Habits.";
+
+"settings_friend_notifications" = "Freunde-Benachrichtigungen";
+"settings_friend_messages" = "Neue Nachrichten";
+"settings_friend_completion" = "Freunde-Abschlüsse";
+"settings_friend_requests" = "Freundschaftsanfragen";
+"settings_friend_notifications_footer" = "Werde benachrichtigt, wenn Freunde Nachrichten senden, ihre Tagesziele erreichen oder dir eine Anfrage schicken.";
+
+"settings_streak" = "Streak";
+"settings_streak_threshold" = "Tägliches Abschlussziel";
+"settings_streak_footer" = "Der Mindestprozentsatz der täglichen Habits, die du abschließen musst, um deinen Streak zu halten.";
+
+"settings_health" = "Gesundheit";
+"settings_health_integration" = "Apple Health";
+"settings_health_active" = "Aktiv";
+"settings_health_enable" = "Weiter";
+"settings_health_open_app" = "Health-App öffnen";
+"settings_health_unavailable" = "Gesundheitsdaten sind auf diesem Gerät nicht verfügbar.";
+"settings_health_footer" = "Verbinde Apple Health, um Habits wie Schritte, Workouts und Kalorien automatisch zu tracken.";
+
+"settings_data" = "Daten";
+"settings_export_data" = "Daten exportieren";
+"settings_reset_data" = "Alle Daten zurücksetzen";
+"settings_reset_title" = "Alle Daten zurücksetzen?";
+"settings_reset_confirm" = "Alles zurücksetzen";
+"settings_reset_message" = "Dies löscht dauerhaft alle deine Habits, Abschlüsse und Ziele. Diese Aktion kann nicht rückgängig gemacht werden.";
+
+"settings_about" = "Über";
+"settings_version" = "Version";
+"settings_support" = "Hilfe & Support";
+"settings_privacy" = "Datenschutz";
+"settings_terms" = "Nutzungsbedingungen";
+"settings_rate_app" = "Im App Store bewerten";
+"settings_made_with" = "Mit ❤️ gemacht";
+"settings_copyright" = "© 2026 Habbit";
+
+"settings_adaptive" = "Adaptiv";
+"settings_auto" = "Auto";
+"settings_adaptive_description" = "Schwarz im hellen Modus, weiß im dunklen Modus";
+"settings_colors" = "Farben";
+
+"settings_goal_details" = "Ziel-Details";
+"settings_goal_name" = "Zielname";
+"settings_description_optional" = "Beschreibung (optional)";
+"settings_info" = "Info";
+"settings_created" = "Erstellt";
+"settings_edit_goal" = "Ziel bearbeiten";
+"settings_edit_profile" = "Profil bearbeiten";
+"settings_save" = "Speichern";
+
+"settings_export_format" = "Exportformat";
+"settings_data_summary" = "Datenübersicht";
+"settings_completions" = "Abschlüsse";
+"settings_export" = "Exportieren";
+"settings_export_title" = "Daten exportieren";
+
+// Color names
+"color_blue" = "Blau";
+"color_purple" = "Lila";
+"color_pink" = "Pink";
+"color_red" = "Rot";
+"color_orange" = "Orange";
+"color_yellow" = "Gelb";
+"color_green" = "Grün";
+"color_teal" = "Türkis";
+"color_indigo" = "Indigo";
+"color_mint" = "Mint";
+"color_cyan" = "Cyan";
+"color_brown" = "Braun";
+"color_graphite" = "Graphit";
+"color_slate" = "Schiefer";
+"color_charcoal" = "Anthrazit";
+"color_stone" = "Stein";
+"color_taupe" = "Taupe";
+"color_sage" = "Salbei";
+"color_steel" = "Stahl";
+
+// MARK: - Habits List
+
+"habits_today" = "Heute";
+"habits_delete_title" = "Habit löschen?";
+"habits_delete_message" = "Möchtest du \"%@\" wirklich löschen? Der gesamte Verlauf wird ebenfalls gelöscht.";
+"habits_streak" = "Serie";
+"habits_done_this_week" = "%d diese Woche erledigt";
+"habits_spent_this_week" = "%@ diese Woche investiert";
+"habits_calendar" = "Kalender";
+"habits_view_all_days" = "Alle Tage anzeigen";
+"habits_this_week" = "Diese Woche";
+"habits_back_to_today" = "Zurück zu Heute";
+"habits_todays_habits" = "Heutige Habits";
+"habits_view_only" = "(Nur Ansicht)";
+"habits_count" = "%d Habits";
+"habits_no_scheduled_today" = "Keine Habits für heute geplant";
+"habits_no_scheduled_day" = "Keine Habits für diesen Tag geplant";
+"habits_week_month" = "Diese Woche & Monat";
+"habits_edit" = "Bearbeiten";
+"habits_no_habits_yet" = "Noch keine Habits";
+"habits_create_first" = "Erstelle deine erste Habit";
+"habits_add_habit" = "Habit hinzufügen";
+"habits_enjoy_day_off" = "Genieße deinen freien Tag!";
+"habits_health" = "Gesundheit";
+"habits_set_count" = "Anzahl festlegen";
+
+// Motivational messages
+"motivation_add_first" = "Füge deine erste Habit hinzu!";
+"motivation_overachiever" = "Übererfüller! Du gibst alles!";
+"motivation_amazing" = "Fantastisch! Du hast heute alles geschafft!";
+"motivation_halfway" = "Du bist auf halbem Weg, mach weiter!";
+"motivation_incredible_streak" = "Unglaubliche Serie! Nicht aufhören!";
+"motivation_keep_momentum" = "Bleib am Ball!";
+"motivation_every_journey" = "Jede Reise beginnt mit einem ersten Schritt.";
+"motivation_unstoppable" = "Nicht aufzuhalten! Du bist on fire!";
+"motivation_legend" = "Legendenstatus freigeschaltet!";
+"motivation_beyond" = "Über alle Erwartungen hinaus!";
+"motivation_crushing" = "Du rockst das heute!";
+"motivation_champion" = "Absoluter Champion!";
+"motivation_breaking_limits" = "Grenzen sprengen! Keine Limits!";
+
+// MARK: - Habit Form
+
+"habit_form_edit_title" = "Habit bearbeiten";
+"habit_form_new_title" = "Neue Habit";
+"habit_form_add" = "Hinzufügen";
+"habit_form_habit_name" = "Name der Habit";
+"habit_form_basic_info" = "Basisinformationen";
+"habit_form_name_required" = "Name ist erforderlich";
+"habit_form_color" = "Farbe";
+"habit_form_icon" = "Symbol";
+"habit_form_emoji" = "Emoji";
+"habit_form_symbol" = "Symbol";
+"habit_form_preview" = "Vorschau";
+"habit_form_schedule" = "Zeitplan";
+"habit_form_frequency" = "Häufigkeit";
+"habit_form_schedule_type" = "Zeitplantyp";
+"habit_form_specific_days" = "Bestimmte Tage";
+"habit_form_flexible" = "Flexibel";
+"habit_form_select_days" = "Tage auswählen";
+"habit_form_times_per_week" = "Mal pro Woche: %d";
+"habit_form_times_per_month" = "Mal pro Monat: %d";
+"habit_form_every_days" = "Alle %d Tage";
+"habit_form_reminder_times" = "Erinnerungszeiten";
+"habit_form_no_reminders" = "Keine Erinnerungen festgelegt";
+"habit_form_track_count" = "Zählung verfolgen";
+"habit_form_target" = "Ziel: %d";
+"habit_form_target_label" = "Ziel";
+"habit_form_count_example" = "z.B. 8 Gläser Wasser, 10 Seiten lesen";
+"habit_form_timer_based" = "Timer-basiert";
+"habit_form_duration" = "Dauer: %d Min";
+"habit_form_completion_type" = "Abschlusstyp";
+"habit_form_count_hint" = "Tippen zum Erhöhen, lange drücken für spezifischen Wert";
+"habit_form_timer_hint" = "Timer-basierte Habits erfordern eine festgelegte Dauer";
+"habit_form_simple_hint" = "Einmal tippen zum Abschließen";
+"habit_form_assign_goal" = "Ziel zuweisen";
+"habit_form_none" = "Keine";
+"habit_form_goal" = "Ziel";
+"habit_form_goal_footer" = "Organisiere Habits, indem du sie Zielen zuweist";
+"habit_form_healthkit_unavailable" = "HealthKit auf diesem Gerät nicht verfügbar";
+"habit_form_link_health" = "Mit Apple Health verbinden";
+"habit_form_data_type" = "Datentyp";
+"habit_form_today_value" = "Heute: %@ %@";
+"habit_form_daily_target" = "Tagesziel";
+"habit_form_healthkit" = "HealthKit";
+"habit_form_healthkit_footer" = "Deine Habit wird automatisch mit Apple Health synchronisiert";
+"habit_form_custom_message" = "Benutzerdefinierte Nachricht (optional)";
+"habit_form_notifications_footer" = "Du erhältst Erinnerungen zu deinen geplanten Zeiten";
+"habit_form_new_goal" = "Neues Ziel";
+"habit_form_create" = "Erstellen";
+
+// MARK: - Habit Timer
+
+"timer_time_remaining" = "Verbleibende Zeit";
+"timer_paused" = "Pausiert";
+"timer_completed" = "Abgeschlossen!";
+"timer_start" = "Start";
+"timer_pause" = "Pause";
+"timer_resume" = "Fortsetzen";
+"timer_reset" = "Zurücksetzen";
+"timer_done" = "Fertig";
+"timer_mark_complete" = "Als erledigt markieren";
+
+// MARK: - Frequencies
+
+"frequency_daily" = "Täglich";
+"frequency_weekly" = "Wöchentlich";
+"frequency_monthly" = "Monatlich";
+"frequency_custom_interval" = "Benutzerdefiniertes Intervall";
+
+// MARK: - HealthKit Data Types
+
+"healthkit_steps" = "Schritte";
+"healthkit_calories" = "Kalorien";
+"healthkit_distance" = "Distanz";
+"healthkit_workouts" = "Workouts";
+"healthkit_open_health" = "Health App öffnen";
+
+// MARK: - Analytics
+
+"analytics_title" = "Statistiken";
+"analytics_week" = "Woche";
+"analytics_month" = "Monat";
+"analytics_year" = "Jahr";
+"analytics_active_habits" = "Aktive Habits";
+"analytics_completion_rate" = "Abschlussrate";
+"analytics_best_streak" = "Beste Serie";
+"analytics_total_completions" = "Gesamte Abschlüsse";
+"analytics_completion_history" = "Abschlussverlauf";
+"analytics_completion_trend" = "Abschlusstrend";
+"analytics_habit_statistics" = "Habit-Statistik";
+"analytics_charts_require" = "Diagramme erfordern iOS 17+";
+"analytics_less" = "Weniger";
+"analytics_more" = "Mehr";
+"analytics_streak" = "Serie";
+"analytics_rate" = "Rate";
+"analytics_today" = "Heute";
+"analytics_current" = "Aktuell";
+"analytics_selected" = "Ausgewählt";
+"analytics_completion" = "Abschluss";
+"analytics_habits" = "Habits";
+
+// MARK: - Explore
+
+"explore_title" = "Entdecken";
+"explore_search_habits" = "Habits suchen";
+"explore_discover" = "Entdecke neue Habits";
+"explore_discover_subtitle" = "Finde Habits, die zu deinen Zielen passen und werde eine bessere Version von dir.";
+
+// Explore Categories
+"explore_category_languages" = "SPRACHEN";
+"explore_category_instruments" = "INSTRUMENTE";
+"explore_category_sports" = "SPORT";
+"explore_category_hobbies" = "HOBBYS";
+"explore_category_skills" = "FÄHIGKEITEN";
+"explore_category_wellness" = "WOHLBEFINDEN";
+
+"explore_subtitle_languages" = "Lerne, global zu kommunizieren";
+"explore_subtitle_instruments" = "Beherrsche die Kunst der Musik";
+"explore_subtitle_sports" = "Baue Kraft und Ausdauer auf";
+"explore_subtitle_hobbies" = "Entdecke kreative Beschäftigungen";
+"explore_subtitle_skills" = "Verbessere deine Fähigkeiten";
+"explore_subtitle_wellness" = "Pflege Körper und Geist";
+
+// Habit Difficulty
+"difficulty_ambitious" = "Ehrgeizig";
+"difficulty_interested" = "Interessiert";
+"difficulty_side" = "Nebenbei";
+"difficulty_ambitious_desc" = "Volle Hingabe - tägliche Übung";
+"difficulty_interested_desc" = "Regelmäßige Übung - mehrmals pro Woche";
+"difficulty_side_desc" = "Lockeres Erkunden - einmal pro Woche";
+
+// Explore Detail Sheet
+"explore_add_habit" = "Habit hinzufügen";
+"explore_choose_commitment" = "Wähle dein Engagement";
+"explore_your_plan" = "Dein Plan";
+"explore_duration" = "Dauer";
+"explore_frequency" = "Häufigkeit";
+"explore_times_per_week" = "Mal pro Woche";
+"explore_add_to_habits" = "Zu meinen Habits hinzufügen";
+"explore_habit_added" = "Habit hinzugefügt!";
+"explore_habit_added_msg" = "%@ ist jetzt in deinen Habits";
+"explore_every_day" = "Jeden Tag";
+"explore_flexible_weekly" = "Flexibel wöchentlich";
+"explore_custom" = "Benutzerdefiniert";
+"explore_sec" = "%d Sek";
+"explore_min" = "%d Min";
+
+// MARK: - Feature 1: Habit Limit
+
+"paywall_habit_limit_title" = "Unbegrenzte Habits freischalten";
+"paywall_upgrade_to_pro" = "Auf Pro upgraden";
+
+// MARK: - Feature 2: Archived Habits
+
+"habits_archive" = "Archivieren";
+"settings_archived_habits" = "Archivierte Habits";
+"archived_restore" = "Wiederherstellen";
+"archived_empty_title" = "Keine archivierten Habits";
+"archived_empty_description" = "Archivierte Habits behalten deine Statistiken, erscheinen aber nicht in deiner täglichen Liste.";
+"archived_completions_count" = "%d Abschlüsse";
+
+// MARK: - Weekly Wrap
+
+"weekly_wrap_notification_title" = "Dein Wochenrückblick ist da!";
+"weekly_wrap_notification_subtitle" = "Schau dir an, wie du letzte Woche warst";
+
+// Intro screen
+"weekly_wrap_intro_personal" = "Schauen wir mal, wie du warst";
+"weekly_wrap_intro_subtitle" = "Deine Woche auf einen Blick";
+
+// Completion rate screen
+"weekly_wrap_completion_amazing" = "Du hast diese Woche gerockt!";
+"weekly_wrap_completion_solid" = "Starke Woche! Du warst dabei.";
+"weekly_wrap_completion_halfway" = "Halb geschafft. Jeder Schritt zählt.";
+"weekly_wrap_completion_building" = "Du baust Momentum auf.";
+"weekly_wrap_completion_start" = "Neue Anfänge. Los geht's!";
+"weekly_wrap_perfect_days_inline" = "%d perfekte Tage";
+
+// Highlight day screen
+"weekly_wrap_highlight_perfect" = "Du hast jede einzelne Habit geschafft";
+"weekly_wrap_highlight_best" = "Dein stärkster Tag der Woche";
+"weekly_wrap_highlight_completions" = "%d Habits abgeschlossen";
+"weekly_wrap_every_day_counts" = "Jeder Tag zählt";
+"weekly_wrap_consistency_matters" = "Es geht nicht um Perfektion, sondern ums Dranbleiben";
+
+// Comparison screen
+"weekly_wrap_vs_last_week" = "im Vergleich zur letzten Woche";
+"weekly_wrap_first_week" = "Das ist dein erster Rückblick!";
+"weekly_wrap_huge_improvement" = "Riesige Verbesserung! Du bist on fire!";
+"weekly_wrap_solid_improvement" = "Schöner Sprung zur letzten Woche!";
+"weekly_wrap_steady_progress" = "Bleibst konstant. Das ist der Schlüssel.";
+"weekly_wrap_slight_dip" = "Kleiner Rückgang, aber du schaffst das.";
+"weekly_wrap_tough_week" = "Harte Woche. Neuer Start steht bevor.";
+
+// Time tracked screen
+"weekly_wrap_no_timer_habits" = "Nur Quick Wins";
+"weekly_wrap_quick_wins" = "Du hast deine Habits schnell erledigt. Manchmal ist einfach am besten.";
+"weekly_wrap_time_dedicated" = "Echte Hingabe da.";
+"weekly_wrap_time_solid" = "Qualitätszeit in dich selbst investiert.";
+"weekly_wrap_time_building" = "Du trainierst deinen Habit-Muskel.";
+"weekly_wrap_time_every_minute" = "Jede Minute summiert sich.";
+
+// Top habit screen
+"weekly_wrap_top_habit_comment" = "Deine konstanteste Habit diese Woche";
+"weekly_wrap_all_habits_equal" = "Ausgewogen auf ganzer Linie";
+"weekly_wrap_balanced_approach" = "Kein einzelner Gewinner - du hast die Liebe gleichmäßig verteilt";
+
+// Summary screen
+"weekly_wrap_summary_great" = "Tolle Woche!";
+"weekly_wrap_summary_good" = "Guter Fortschritt!";
+"weekly_wrap_summary_keep_going" = "Bleib dran!";
+"weekly_wrap_summary_new_week" = "Neuer Start!";
+"weekly_wrap_new_week_ahead" = "Neue Woche, neue Möglichkeiten. Du schaffst das.";
+"weekly_wrap_save" = "In Fotos speichern";
+"weekly_wrap_close" = "Schließen";
+"weekly_wrap_back" = "Zurück";
+"weekly_wrap_saved_title" = "Gespeichert!";
+"weekly_wrap_saved_message" = "Dein Wochenrückblick wurde in deiner Fotobibliothek gespeichert.";
+
+// Summary card (for saving)
+"weekly_wrap_summary_title" = "Wochenrückblick";
+"weekly_wrap_stat_rate" = "Abschluss";
+"weekly_wrap_stat_perfect" = "Perfekte Tage";
+"weekly_wrap_stat_completed" = "Erledigt";
+"weekly_wrap_stat_time" = "Zeit";
+"weekly_wrap_most_consistent" = "Am konstantesten";
+
+// Settings
+"settings_weekly_wraps" = "Wochenrückblicke";
+"weekly_wraps_empty_title" = "Noch keine Wochenrückblicke";
+"weekly_wraps_empty_description" = "Deine Wochenrückblicke erscheinen hier nach deiner ersten vollen Woche.";
+
+// MARK: - Skip Day
+
+"skip_today" = "Heute überspringen";
+"skip_today_title" = "Heute überspringen?";
+"skip_today_message" = "Das Überspringen unterbricht deine Serie nicht, aber der Fortschritt wird null sein.";
+"skip_today_confirm" = "Überspringen";
+"day_skipped" = "Tag übersprungen";
+"skip_not_today_title" = "Nicht möglich";
+"skip_not_today_message" = "Gehe zurück zu heute, um den aktuellen Tag zu überspringen.";
+
+// MARK: - Daily Notes
+
+"daily_note_title" = "Heutige Notiz";
+"daily_note_add" = "Notiz hinzufügen";
+"daily_note_placeholder" = "Schreibe Gedanken, Todos oder Reflexionen auf...";
+"daily_note_empty" = "Keine Notiz für diesen Tag";
+"daily_note_today" = "Heutige Notiz";
+"daily_note_read_only" = "Notizen vergangener Tage sind schreibgeschützt";
+"daily_note_mode" = "Modus";
+"daily_note_mode_text" = "Text";
+"daily_note_mode_todo" = "To-Do";
+"daily_note_todo_item" = "Aufgabe";
+"daily_note_todo_add" = "Eintrag hinzufügen";
+"daily_note_todo_count" = "%d/%d erledigt";
+
+// MARK: - Friends Feature
+
+"tab_friends" = "Freunde";
+"friends_title" = "Freunde";
+"friends_icloud_required" = "iCloud erforderlich";
+"friends_icloud_description" = "Melde dich in den Einstellungen bei iCloud an, um die Freunde-Funktion zu nutzen.";
+"friends_open_settings" = "Einstellungen öffnen";
+"friends_setup_profile" = "Profil einrichten";
+"friends_setup_description" = "Erstelle ein Profil, um dich mit Freunden zu verbinden und deinen Fortschritt zu teilen.";
+"friends_create_profile" = "Profil erstellen";
+"friends_your_progress" = "Dein Fortschritt";
+"friends_pending_requests" = "%d ausstehende Anfragen";
+"friends_section_title" = "Freunde";
+"friends_no_friends_yet" = "Noch keine Freunde";
+"friends_add_friends_description" = "Füge Freunde hinzu, um deren Fortschritt zu sehen und euch gegenseitig zu motivieren.";
+"friends_add_friend" = "Freund hinzufügen";
+"friends_weekly_leaderboard" = "Wöchentliche Rangliste";
+"friends_messages" = "Nachrichten";
+"friends_new" = "neu";
+"friends_view_all_messages" = "Alle Nachrichten anzeigen";
+"friends_streak_count" = "%d Tage Serie";
+"friends_you" = "Du";
+
+// Friends Profile Setup
+"friends_your_name" = "Dein Name";
+"friends_username_header" = "Benutzername";
+"friends_username_placeholder" = "benutzername";
+"friends_username_footer" = "Freunde können dich über deinen einzigartigen Benutzernamen finden.";
+"friends_username_requirements" = "Benutzername muss 3-20 Zeichen lang sein (Buchstaben, Zahlen, Unterstrich).";
+"friends_username_taken" = "Dieser Benutzername ist bereits vergeben.";
+"friends_display_name" = "Anzeigename";
+"friends_name_header" = "Anzeigename";
+"friends_name_footer" = "So wirst du deinen Freunden angezeigt.";
+"friends_avatar_header" = "Avatar";
+"friends_custom_emoji" = "Eigenes";
+"friends_privacy_header" = "Privatsphäre";
+"friends_discoverable" = "Von Freunden auffindbar";
+"friends_discoverable_footer" = "Erlaube Freunden, dich über deinen Benutzernamen zu finden.";
+
+// Add Friend
+"friends_add_title" = "Freunde hinzufügen";
+"friends_add_description" = "Teile deinen Einladungslink mit Freunden, um euch zu verbinden und gegenseitig den Fortschritt zu sehen.";
+"friends_search_header" = "Nach Benutzername suchen";
+"friends_search_placeholder" = "Benutzername eingeben";
+"friends_search_footer" = "Finde Freunde über ihren einzigartigen Benutzernamen.";
+"friends_search_results" = "Ergebnisse";
+"friends_no_results" = "Keine Nutzer gefunden";
+"friends_already_added" = "Bereits hinzugefügt";
+"friends_or_share_link" = "Oder teile einen Link";
+"friends_share_link" = "Einladungslink teilen";
+"friends_copy_link" = "Link kopieren";
+"friends_link_copied" = "Link kopiert!";
+"friends_invite_info" = "Deine Freunde müssen Habbit installiert haben, um deine Einladung anzunehmen.";
+
+// Pending Requests
+"friends_pending_title" = "Ausstehende Anfragen";
+"friends_incoming_requests" = "Eingehende Anfragen";
+"friends_outgoing_requests" = "Gesendete Anfragen";
+"friends_outgoing_footer" = "Warte auf Annahme durch deine Freunde.";
+"friends_no_pending" = "Keine ausstehenden Anfragen";
+"friends_no_pending_description" = "Freundschaftsanfragen, die du sendest oder erhältst, erscheinen hier.";
+"friends_wants_to_connect" = "Möchte sich verbinden";
+"friends_request_pending" = "Anfrage ausstehend";
+
+// Friend Detail
+"friends_today" = "Heute";
+"friends_streak" = "Serie";
+"friends_weekly" = "Wöchentlich";
+"friends_recent_activity" = "Letzte Aktivität";
+"friends_historical_note" = "Gestrichelte Kreise zeigen Tage ohne verfügbare Aktivitätsdaten.";
+"friends_connected_since" = "Verbunden seit %@";
+"friends_profile" = "Profil";
+"friends_remove" = "Freund entfernen";
+"friends_remove_confirm_title" = "%@ entfernen?";
+"friends_remove_confirm_message" = "Diese Person wird nicht mehr in deiner Freundesliste erscheinen.";
+"friends_top_habit" = "Top Habit";
+"friends_hours_this_week" = "Stunden diese Woche";
+"friends_quote_footer" = "Deine Freunde sehen dieses Zitat auf deinem Profil.";
+
+// Leaderboard
+"friends_leaderboard" = "Rangliste";
+"friends_leaderboard_weekly" = "Wöchentlich";
+"friends_leaderboard_monthly" = "Monatlich";
+"friends_all_rankings" = "Alle Platzierungen";
+"friends_you_label" = "Du";
+
+// Messaging
+"friends_send_message" = "Nachricht senden";
+"friends_send_to" = "Senden an %@";
+"friends_choose_message" = "Wähle eine Nachricht";
+"friends_send" = "Senden";
+"friends_message_sent" = "Nachricht gesendet!";
+"friends_message_sent_to" = "Deine Nachricht wurde an %@ gesendet";
+
+// Message Templates
+"message_keep_going" = "Mach weiter!";
+"message_you_got_this" = "Du schaffst das!";
+"message_amazing_progress" = "Toller Fortschritt!";
+"message_proud_of_you" = "So stolz auf dich!";
+"message_dont_give_up" = "Nicht aufgeben!";
+"message_crushing" = "Du rockst das!";
+"message_inspiring_me" = "Du inspirierst mich!";
+"message_lets_meet_goal" = "Lass uns unsere Ziele erreichen!";
+
+// Short Message Labels (for compact grid)
+"message_short_keep_going" = "Weiter so";
+"message_short_you_got_this" = "Du schaffst das";
+"message_short_amazing" = "Toll";
+"message_short_proud" = "Stolz";
+"message_short_dont_give_up" = "Gib nicht auf";
+"message_short_crushing" = "Du rockst";
+"message_short_inspiring" = "Inspirierend";
+"message_short_goals" = "Ziele";
+
+// Custom Message
+"friends_custom_message" = "Eigene Nachricht";
+"friends_custom_placeholder" = "Schreibe deine eigene Nachricht...";
+"friends_or_quick_message" = "Oder wähle eine Schnellnachricht";
+
+// Chat View
+"friends_type_message" = "Nachricht schreiben...";
+"friends_no_messages_yet" = "Noch keine Nachrichten";
+"friends_send_first_message" = "Sende eine Nachricht, um das Gespräch zu beginnen";
+"friends_percent_today" = "%d%% heute";
+"friends_you_prefix" = "Du:";
+
+// CloudKit Errors
+"cloudkit_error_not_authenticated" = "Bitte melde dich bei iCloud an, um diese Funktion zu nutzen.";
+"cloudkit_error_network" = "Netzwerk nicht verfügbar. Bitte überprüfe deine Verbindung.";
+"cloudkit_error_quota" = "iCloud-Speicherkontingent überschritten.";
+"cloudkit_error_not_found" = "Eintrag nicht gefunden.";
+"cloudkit_error_permission" = "Berechtigung verweigert.";
+"cloudkit_error_username_taken" = "Dieser Benutzername ist bereits vergeben.";
+"cloudkit_error_server" = "Serverfehler";
+
+// Notifications
+"notification_friend_request_title" = "Neue Freundschaftsanfrage";
+"notification_friend_request_body" = "Jemand möchte sich mit dir verbinden!";
+"notification_message_title" = "Neue Nachricht";
+"notification_message_body" = "Du hast eine Ermutigung von einem Freund erhalten!";
+"notification_message_body_from" = "%@ hat dir eine Nachricht geschickt";
+"notification_friend_completed_title" = "Freund hat den Tag geschafft!";
+"notification_friend_completed_body" = "Ein Freund hat gerade 100% für heute erreicht!";
+
+// MARK: - Shared Challenges
+
+"challenges_title" = "Challenges";
+"challenges_create" = "Neue Challenge";
+"challenges_with" = "mit";
+"challenges_from" = "von";
+"challenges_sent_to" = "gesendet an";
+"challenges_waiting" = "Warten";
+"challenges_day_x_of_y" = "Tag %d von %d";
+"challenges_your_progress" = "Dein Fortschritt";
+"challenges_friend_progress" = "%@s Fortschritt";
+"challenges_combined_progress" = "Gemeinsamer Fortschritt";
+"challenges_mark_complete" = "Heute als erledigt markieren";
+"challenges_pending" = "Ausstehend";
+"challenges_remove" = "Challenge entfernen";
+"challenges_hk_missing_title" = "Apple Health nicht verknüpft";
+"challenges_hk_missing_body" = "Diese Challenge verfolgt %@, aber du hast keine aktive Gewohnheit mit Apple Health für diesen Typ verknüpft. Verknüpfe eine in deinen Habit-Einstellungen, damit dein Fortschritt automatisch erfasst wird.";
+"challenges_remove_confirm_title" = "Challenge entfernen?";
+"challenges_remove_confirm_message" = "Diese Challenge wird aus deiner Liste entfernt.";
+"challenges_accept" = "Annehmen";
+"challenges_decline" = "Ablehnen";
+"challenges_completed" = "Erledigt";
+"challenges_not_done" = "Nicht erledigt";
+"challenges_start" = "Challenge starten";
+"challenges_habit_name" = "Habit-Name";
+"challenges_emoji" = "Emoji";
+"challenges_duration" = "Dauer";
+"challenges_duration_footer" = "Wie viele Tage ihr euch gegenseitig herausfordern wollt.";
+"challenges_days_format" = "%d Tage";
+"challenges_invite_friend" = "Freund einladen";
+"challenges_no_friends" = "Keine Freunde verfügbar. Füge zuerst Freunde hinzu!";
+"challenges_empty_title" = "Noch keine Challenges";
+"challenges_empty_description" = "Starte eine Challenge mit einem Freund, um euch gegenseitig zu motivieren!";
+"challenges_start_one" = "Challenge starten";
+"challenges_pending_invites" = "Challenge-Einladungen";
+"challenges_invites_title" = "Challenge-Einladungen";
+"challenges_no_invites" = "Keine ausstehenden Einladungen";
+"challenges_no_invites_description" = "Challenge-Einladungen von Freunden erscheinen hier.";
+"challenges_calendar" = "Fortschrittskalender";
+"challenges_upcoming" = "Kommend";
+"challenges_today_status" = "Status heute";
+
+// Challenge Status
+"challenges_status_pending" = "Ausstehend";
+"challenges_status_active" = "Aktiv";
+"challenges_status_completed" = "Abgeschlossen";
+"challenges_status_cancelled" = "Abgebrochen";
+
+// Challenge Notifications
+"notification_challenge_invite_title" = "Neue Challenge-Einladung";
+"notification_challenge_invite_body" = "Ein Freund hat dich zu einer Challenge eingeladen!";
+"notification_challenge_complete_title" = "Challenge-Update";
+"notification_challenge_complete_body" = "Dein Freund hat die heutige Challenge abgeschlossen!";
+
+// Challenge Settings (CreateChallengeSheet)
+"challenges_settings" = "Challenge-Einstellungen";
+"challenges_collaborative" = "Gemeinsamer Modus";
+"challenges_collaborative_footer" = "Ihr tragt beide zum gleichen Ziel bei. Schafft die Challenge zusammen!";
+"challenges_competitive_footer" = "Jeder verfolgt seinen eigenen Fortschritt. Wer schafft mehr Tage?";
+"challenges_select_friend_footer" = "Wähle einen Freund für die Challenge aus.";
+"challenges_health_tracking" = "Apple Health Tracking";
+"challenges_health_none" = "Kein";
+
+// MARK: - Smart Reminders (Settings)
+
+"smart_reminders_title" = "Smarte Erinnerungen";
+"smart_reminders_footer" = "Spielerische tägliche Erinnerungen mit deinen echten Gewohnheitsnamen, damit du am Ball bleibst.";
+"smart_reminders_picker_label" = "Häufigkeit";
+"smart_reminders_freq_1" = "Leicht · 1×/Tag";
+"smart_reminders_freq_2" = "Moderat · 2×/Tag";
+"smart_reminders_freq_3" = "Aktiv · 3×/Tag";
+"smart_reminders_freq_4" = "Energetisch · 4×/Tag";
+"smart_reminders_freq_5" = "Intensiv · 5×/Tag";
+
+// MARK: - Smart Reminder Habit Templates ({name} und {emoji} werden zur Laufzeit ersetzt)
+
+"smart_habit_0_title" = "{emoji} hey";
+"smart_habit_0_body" = "{name} macht sich nicht von selbst";
+"smart_habit_1_title" = "das ist dein zeichen {emoji}";
+"smart_habit_1_body" = "{name} jetzt. einfach machen.";
+"smart_habit_2_title" = "dein zukünftiges ich hat angerufen {emoji}";
+"smart_habit_2_body" = "danke gesagt für {name} heute";
+"smart_habit_3_title" = "kein druck {emoji}";
+"smart_habit_3_body" = "{name} wartet noch auf dich";
+"smart_habit_4_title" = "überraschung {emoji}";
+"smart_habit_4_body" = "du machst {name} heute wirklich";
+"smart_habit_5_title" = "👀 wir sehen dich";
+"smart_habit_5_body" = "wieder an {name} vorbeischleichen? nicht heute";
+"smart_habit_6_title" = "PSA {emoji}";
+"smart_habit_6_body" = "{name}-Zeit — du weißt was zu tun ist";
+"smart_habit_7_title" = "{emoji} gewohnheits-check!";
+"smart_habit_7_body" = "{name} — hast du es schon gemacht?";
+"smart_habit_8_title" = "kleine siege {emoji}";
+"smart_habit_8_body" = "{name} zählt, auch an müden tagen";
+"smart_habit_9_title" = "nicht zu viel nachdenken {emoji}";
+"smart_habit_9_body" = "{name}. einfach machen.";
+"smart_habit_10_title" = "serie-check {emoji}";
+"smart_habit_10_body" = "am laufen halten — mach {name}";
+"smart_habit_11_title" = "einmal und fertig {emoji}";
+"smart_habit_11_body" = "{name} reicht für heute";
+
+// MARK: - Smart Reminder Goal Templates ({name}, {emoji}, {goal} werden zur Laufzeit ersetzt)
+
+"smart_goal_0_title" = "👀 nur so";
+"smart_goal_0_body" = "{goal} wäre doch schön zu erreichen, oder?";
+"smart_goal_1_title" = "ehrlich jetzt {emoji}";
+"smart_goal_1_body" = "wie nah bist du {goal} ohne {name}?";
+"smart_goal_2_title" = "noch auf dem {goal}-trip? {emoji}";
+"smart_goal_2_body" = "{name} bringt dich da hin — los";
+"smart_goal_3_title" = "tick tack {emoji}";
+"smart_goal_3_body" = "{goal} erreicht sich nicht selbst. mach {name}";
+"smart_goal_4_title" = "kein druck 👀";
+"smart_goal_4_body" = "{goal} wartet. {name} auch";
+"smart_goal_5_title" = "{goal}. erinnerst du dich? {emoji}";
+"smart_goal_5_body" = "mach {name} — dein zukünftiges ich dankt dir";
+"smart_goal_6_title" = "verrückte idee {emoji}";
+"smart_goal_6_body" = "mach {name} jetzt und komm {goal} näher";
+"smart_goal_7_title" = "du wolltest {goal} {emoji}";
+"smart_goal_7_body" = "wann passiert {name} heute also?";
+"smart_goal_8_title" = "👀 {goal} schaut zu";
+"smart_goal_8_body" = "lass {name} nicht der grund sein, es zu verpassen";
+"smart_goal_9_title" = "ziele brauchen taten {emoji}";
+"smart_goal_9_body" = "{goal} — {name} ist der heutige schritt";
+
+// MARK: - Challenge Partner Done Notifications ({partner} substituted at runtime)
+"challenge_partner_fallback" = "Dein Freund";
+"challenge_done_0_title" = "{partner} hat's gemacht 🔥";
+"challenge_done_0_body" = "jetzt bist du dran — lass sie nicht gewinnen";
+"challenge_done_1_title" = "{partner} hat abgehakt 💪";
+"challenge_done_1_body" = "sie waren dabei. und du?";
+"challenge_done_2_title" = "dein zug 👀";
+"challenge_done_2_body" = "{partner} hat die challenge heute schon erledigt";
+"challenge_done_3_title" = "{partner} ist voraus 🏃";
+"challenge_done_3_body" = "hol auf — mach es jetzt";
+"challenge_done_4_title" = "lass {partner} nicht gewinnen 😤";
+"challenge_done_4_body" = "sie haben heute schon abgehakt — los los los";
+"challenge_done_5_title" = "{partner} war heute zuerst 🎯";
+"challenge_done_5_body" = "jetzt hast du keine ausrede mehr";
+"challenge_done_6_title" = "challenge angenommen? 👊";
+"challenge_done_6_body" = "{partner} hat's bewiesen — beweise es auch";
+
+// MARK: - Re-engagement Notifications (3-day inactivity)
+
+"reengagement_0_title" = "Noch dabei mit {habit}? 💪";
+"reengagement_0_body" = "Du warst eine Weile nicht aktiv. Heute ist ein guter Tag, wieder loszulegen.";
+"reengagement_1_title" = "Lass {habit} nicht einschlafen 🔥";
+"reengagement_1_body" = "Ein paar Minuten jetzt halten deinen Streak am Leben. Du schaffst das.";
+"reengagement_2_title" = "Dein zukünftiges Ich schaut zu 👀";
+"reengagement_2_body" = "Komm zurück und leg los — {habit} baut sich nicht von selbst auf.";
+"reengagement_3_title" = "Vermisst du uns? Wir dich auch 💙";
+"reengagement_3_body" = "Mach weiter mit {habit} und halte den Schwung aufrecht.";
+"reengagement_4_title" = "3 Tage. Zeit zu grinden 🚀";
+"reengagement_4_body" = "Du hast ein Ziel gesetzt: {habit}. Lass es nicht verstauben.";
+"reengagement_5_title" = "Mach weiter, wo du aufgehört hast ✨";
+"reengagement_5_body" = "Jeder Streak beginnt mit einem Tag. Heute zählt für {habit}.";
+"reengagement_6_title" = "Der Grind wartet auf niemanden ⏰";
+"reengagement_6_body" = "Öffne die App und mach einen Schritt in Richtung {habit}. Kleine Schritte summieren sich.";

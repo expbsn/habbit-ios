@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Build output
+DerivedData/
+build/
+
+# Local tool settings
+.claude/settings.local.json
